@@ -32,7 +32,6 @@
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyuan00&show_icons=true&theme=transparent)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whyuan00)](https://solved.ac/whyuan00)
 </div>
